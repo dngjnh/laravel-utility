@@ -1,0 +1,20 @@
+{
+    "name": "dngjnh/laravel-utility",
+    "description": "Laravel 框架的实用工具",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dngjnh",
+            "email": "dngjnh@foxmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "~5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dngjnh\\LaravelUtility\\": "src/"
+        }
+    }
+}
