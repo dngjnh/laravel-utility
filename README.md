@@ -2,10 +2,10 @@
 
 ## 目录
 
-- [简介](# 简介)
-- [安装](# 安装)
-- [Traits](# Traits)
-    - [ModelResourceTrait](# ModelResourceTrait)
+- [简介](#简介)
+- [安装](#安装)
+- [Traits](#Traits)
+    - [ModelResourceTrait](#ModelResourceTrait)
 
 ## 简介
 
